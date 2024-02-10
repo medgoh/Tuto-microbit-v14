@@ -6,7 +6,7 @@
         "core": "*","radio": "*","audio-recording": "*"
     },
     "files": [
-        "main.blocks","niveau_bulle.md","main.ts","README.md","thermometre.md"
+        "main.blocks","niveau_bulle.md","main.ts","README.md","thermometre.md","battement.md"
     ],
     "testFiles": [
         "test.ts"
