@@ -1,8 +1,8 @@
 # Réalise un niveau à bulle sonore avec Taill'Créons
 
 
-## Bonjour, Taill'Crons va t'apprendre à faire un niveau à bulle sonore !@unplugged
-Suis bien les instructions à chaques étapes et clique sur SUIVANT pour passer
+## Bonjour, Taill'Crons va t'apprendre à faire un thermomètre avec mémoire de température min et max !@unplugged
+Suis bien les instructions à chaques étapes et clique sur ``|Next|`` pour passer
  aux prochaines étapes.  
 N'hésite pas à cliquer sur le bouton d'aide en forme d'ampoule en cas 
 de blocage.  

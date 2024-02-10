@@ -4,14 +4,12 @@
 ## Bonjour, Taill'Crons va t'apprendre à faire battre le coeur de ton microbit en rythme
 Suis bien les instructions à chaques étapes et clique sur ``|Next|``. pour passer
  aux prochaines étapes.  
-N'hésite pas à cliquer sur le bouton d'aide  en forme d'``|ampoule|`` en cas 
+N'hésite pas à cliquer sur le bouton d'aide  en forme d'ampoule en cas 
 de blocage.  
 Si vous êtes deux à cet atelier, faites une étapes sur deux à tour de rôle et entraidez-vous!
 Clique sur OK pour commencer.
 
-
  ![Image description](https://def773hwqc19t.cloudfront.net/img/actor_cover/2786/18daa29583f7776a3032954d83007d40_Taillcr%C3%A9o.jpg)
-
 
 
 ## Détecte lorsque l'environnement sonore est bruyant
